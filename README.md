@@ -24,3 +24,5 @@ run pip install -r requirements.txt
 after this just execute 
 
 jupyter lab
+
+I stop here: https://www.kaggle.com/code/dansbecker/random-forests/tutorial
